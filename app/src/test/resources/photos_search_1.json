@@ -1,0 +1,22 @@
+{
+  "photos": {
+	"page": 1,
+	"pages": 969972,
+	"perpage": 1,
+	"total": "969972",
+	"photo": [
+	  {
+		"id": "51016983496",
+		"owner": "89892328@N02",
+		"secret": "593f0f4fcf",
+		"server": "0",
+		"farm": 0,
+		"title": "beige kitten heels - shoeplay 2",
+		"ispublic": 1,
+		"isfriend": 0,
+		"isfamily": 0
+	  }
+	]
+  },
+  "stat": "ok"
+}

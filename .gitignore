@@ -13,10 +13,6 @@
 .externalNativeBuild
 .cxx
 
-### Devskiller entries
-###
-### Please do not add anything below this line, your changes will be overwritten
-###
 *.iws
 *.launch
 .externalToolBuilders/
